@@ -1,0 +1,26 @@
+body {
+    font-family: 'Muli', sans-serif;
+}
+
+div#wrapper {
+    position:relative;
+    width:80%;
+    margin:auto;
+    border:1px solid black;
+    padding:20px;
+}
+
+input {
+    position:absolute;
+    left:150px;
+}
+
+form {
+    position:relative;
+    padding:20px;
+}
+
+input.clear {
+    position:relative;
+    left: 0px;
+}
